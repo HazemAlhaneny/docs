@@ -4,7 +4,13 @@ Get started with administration
 .. toctree::
     :maxdepth: 1
     :hidden:
-    :titlesonly:
+    :titlesonly: 
+
+
+
+
+
+
 
     Mattermost feature labels </getting-started/feature-labels>
     Optimize your workspace </configure/optimize-your-workspace>
